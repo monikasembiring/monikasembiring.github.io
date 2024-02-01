@@ -83,4 +83,21 @@ In this project, we redesigned 10 e-directory and 10 customer loyalty kiosks usi
 <center><img src="images/directory.png"/></center>
 
 ---
-<center>© 2023 Monika Sembiring. Powered by Jekyll and the Minimal Theme.</center>
+## Fun Personal Project
+
+### Monika & Andy Wedding Invitation Website
+
+This website was developed by me and hosted on GitHub pages as an invitation for my wedding on January 12, 2024. 
+
+[![Open the Invitation](https://img.shields.io/badge/Github%20Pages-Open_the_Invitation-blue?logo=githubpages)](https://monikasembiring.github.io/wedding-invitation/?name=Especially%20for%20those%20who%20are%20viewing%20my%20portfolio)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/monikasembiring/wedding-invitation)
+
+
+I created this mobile-responsive wedding invitation website using Bootstrap as a library. The site includes features like a countdown, details about the bride and groom, event information, FAQs, a collection of photos and videos, an attendance confirmation system with HTML and Google Sheet, a gift-sending option, and a guest well-wishes section, also powered by Google Sheet. While there's always room for improvement, I'm proud of the result. Feel free to use it for your own wedding invitation or reach out with any questions you may have.
+
+
+<center><img src="images/bridge-risk-analysis.jpg"/></center>
+
+
+---
+<center>© 2024 Monika Sembiring. Powered by Jekyll and the Minimal Theme.</center>
