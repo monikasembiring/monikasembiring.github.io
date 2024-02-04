@@ -1,6 +1,10 @@
 # Portfolio
----
-## Data Science
+
+1. [Data Science and Data Analytics](#data)
+2. [Product Management](#product)
+3. [Personal Project](#personal)
+
+## Data Science <a id="data"></a>
 
 ### Pittsburgh Bridge Risk Analysis with Machine Learning
 
@@ -40,7 +44,7 @@ This research aimed to use A/B testing to know whether having the video on and b
 <br>
 
 ---
-## Product Management
+## Product Management <a id="product"></a>
 
 ### Voice Compass by NLX Figma Plugin
 
@@ -83,7 +87,7 @@ In this project, we redesigned 10 e-directory and 10 customer loyalty kiosks usi
 <center><img src="images/directory.png"/></center>
 
 ---
-## Fun Personal Project
+## Fun Personal Project <a id="personal"></a>
 
 ### Monika & Andy Wedding Invitation Website
 
