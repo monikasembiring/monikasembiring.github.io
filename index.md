@@ -3,6 +3,7 @@
 1. [Data Science and Data Analytics](#data)
 2. [Product Management](#product)
 3. [Personal Project](#personal)
+
 ---
 ## Data Science <a id="data"></a>
 
