@@ -1,12 +1,20 @@
 # Portfolio
 
 1. [Data Science and Data Analytics](#data)
+    1. [Pittsburgh Bridge Risk Analysis](#data1)
+    2. [H-1B Visa Application Visualization](#data2)
+    3. [Effect of Camera Use in Online Learning](#data3)
 2. [Product Management](#product)
+    1. [Voice Compass Figma Plugin](#product1)
+    2. [Routing Optimization for Order Delivery](#product2)
+    3. [CATAPA Chatbot PWA Application](#product3)
+    4. [Grand Indonesia E-directory](#product4)
 3. [Personal Project](#personal)
+    1. [Monika and Andy Wedding Invitation](#personal1)
 
 ## Data Science <a id="data"></a>
 
-### Pittsburgh Bridge Risk Analysis with Machine Learning
+### Pittsburgh Bridge Risk Analysis with Machine Learning <a id="data1"></a>
 
 This analysis was originally a project for [***95885 - Data Science and Big Data course***](https://api.heinz.cmu.edu/courses_api/course_detail/95-885/) at Carnegie Mellon University.
 
@@ -19,7 +27,7 @@ This analysis builds a classification model for bridges in Pittsburgh based on t
 <center><img src="images/bridge-risk-analysis.jpg"/></center>
 
 ---
-### H-1B Visa Application Visualization with Altair
+### H-1B Visa Application Visualization with Altair <a id="data2"></a>
 
 This analysis was originally a project for [***95885 - Data Science and Big Data course***](https://api.heinz.cmu.edu/courses_api/course_detail/95-885/) at Carnegie Mellon University.
 
@@ -31,7 +39,7 @@ The H-1B visa is an employment visa for foreign nationals to work in the United 
 <center><img src="images/h-1b visualization.png"/></center>
 
 ---
-### Effect of Camera Use in Online Learning on Participant Performance with A/B Testing
+### Effect of Camera Use in Online Learning on Participant Performance with A/B Testing <a id="data3"></a>
 
 This analysis was originally a project for [***95819 - A/B Testing, Design and Analysis course***](https://api.heinz.cmu.edu/courses_api/course_detail/95-819/) at Carnegie Mellon University.
 
@@ -46,7 +54,7 @@ This research aimed to use A/B testing to know whether having the video on and b
 ---
 ## Product Management <a id="product"></a>
 
-### Voice Compass by NLX Figma Plugin
+### Voice Compass by NLX Figma Plugin <a id="product1"></a>
 
 This [product](https://nlx.ai/news/nlx-s-new-figma-plugin-for-voice-compass?utm_content=218434948&utm_medium=social&utm_source=linkedin&hss_channel=lcp-12587283) was developed and released when I worked as a Product Manager intern at [NLX](https://nlx.ai/).
 
@@ -58,7 +66,7 @@ NLX has a platform to build a voice-guided assistant called [Voice Compass](http
 <center><img src="images/vc-figma-plugin.png"/></center>
 
 ---
-### Improve Routing Optimization for Order Delivery with Clustering
+### Improve Routing Optimization for Order Delivery with Clustering <a id="product2"></a>
 
 These product was developed when I worked as a Product Manager at [Warung Pintar](https://warungpintar.co.id/).
 
@@ -67,7 +75,7 @@ At Warung Pintar, we delivered more than 3000 customers' orders daily from the w
 <center><img src="images/vrp.png"/></center>
 
 ---
-### Claudia - CATAPA Chatbot PWA Application to Support Human Resource with Dialogflow
+### Claudia - CATAPA Chatbot PWA Application to Support Human Resource with Dialogflow <a id="product3"></a>
 
 These product was developed when I worked as a Product Manager at [Catapa](https://catapa.com/).
 
@@ -78,7 +86,7 @@ The chatbot was built to support employee self-service to reduce Human Resource 
 <center><img src="images/claudia.png"/></center>
 
 ---
-### Grand Indonesia Mall E-directory with Unity
+### Grand Indonesia Mall E-directory with Unity <a id="product4"></a>
 
 These product was developed when I worked as a Product Manager at [GDP Labs](https://www.gdplabs.id/).
 
@@ -89,7 +97,7 @@ In this project, we redesigned 10 e-directory and 10 customer loyalty kiosks usi
 ---
 ## Fun Personal Project <a id="personal"></a>
 
-### Monika & Andy Wedding Invitation Website
+### Monika & Andy Wedding Invitation Website <a id="personal1"></a>
 
 This website was developed by me and hosted on GitHub pages as an invitation for my wedding on January 12, 2024. 
 
