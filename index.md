@@ -96,7 +96,7 @@ This website was developed by me and hosted on GitHub pages as an invitation for
 I created this mobile-responsive wedding invitation website using Bootstrap as a library. The site includes features like a countdown, details about the bride and groom, event information, FAQs, a collection of photos and videos, an attendance confirmation system with HTML and Google Sheet, a gift-sending option, and a guest well-wishes section, also powered by Google Sheet. While there's always room for improvement, I'm proud of the result. Feel free to use it for your own wedding invitation or reach out with any questions you may have.
 
 
-<center><img src="images/bridge-risk-analysis.jpg"/></center>
+<center><img src="images/wedding.jpg"/></center>
 
 
 ---
