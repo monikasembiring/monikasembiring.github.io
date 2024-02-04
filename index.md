@@ -1,17 +1,9 @@
 # Portfolio
-
+---
 1. [Data Science and Data Analytics](#data)
-    1. [Pittsburgh Bridge Risk Analysis](#data1)
-    2. [H-1B Visa Application Visualization](#data2)
-    3. [Effect of Camera Use in Online Learning](#data3)
 2. [Product Management](#product)
-    1. [Voice Compass Figma Plugin](#product1)
-    2. [Routing Optimization for Order Delivery](#product2)
-    3. [CATAPA Chatbot PWA Application](#product3)
-    4. [Grand Indonesia E-directory](#product4)
 3. [Personal Project](#personal)
-    1. [Monika and Andy Wedding Invitation](#personal1)
-
+---
 ## Data Science <a id="data"></a>
 
 ### Pittsburgh Bridge Risk Analysis with Machine Learning <a id="data1"></a>
